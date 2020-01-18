@@ -1,0 +1,15 @@
+# Change extension of this file to .gitignore
+
+*.jar
+*.war
+*.ear
+*.class
+
+/target/
+
+/.classpath
+/.springBeans
+/.project
+/.settings/
+/.gradle/
+/build/
