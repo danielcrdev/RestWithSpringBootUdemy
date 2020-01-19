@@ -1,4 +1,4 @@
-package br.com.danielcrdev.exception.hander;
+package br.com.danielcrdev.exception.handler;
 
 import java.util.Date;
 
